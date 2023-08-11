@@ -44,8 +44,4 @@ Use of these names does not imply endorsement by FANUC Corporation.
 
 
 
-#### Add Robot Model in Rviz 
-####### Displays the current configuration of Fanuc as it is loaded into the parameter server
-####### joint_states are appropriately remapped to load both the robots in rviz
 
-![Dual-arm robot](./Readme_Images/rviz_fanuc_crx.png)
