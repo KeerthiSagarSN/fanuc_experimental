@@ -41,3 +41,9 @@ Use of these names does not imply endorsement by FANUC Corporation.
 [ROS-Industrial]: http://wiki.ros.org/Industrial
 [ROS wiki]: http://wiki.ros.org/fanuc_experimental
 [fanuc]: https://github.com/ros-industrial/fanuc
+
+## Add Robot Model in Rviz 
+##### Displays the current configuration of Fanuc as it is loaded into the parameter server
+##### joint_states are appropriately remapped to load both the robots in rviz
+
+![Dual-arm robot](./Readme_Images/rviz_fanuc_crx.png)
